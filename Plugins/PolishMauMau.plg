@@ -1,0 +1,4 @@
+[TITLE]Polnisches MauMau;
+[AUTHOR]LordLormi;
+[DESCRIPTION]Die Polnische version des altbekannten Kartenspiels "MauMau" in einer neuen Auflage. Besiege den Computer indem du als erstes keine Katen mehr auf der Hand hast.;
+[StartClass]CardGames.Plugins.Mau.MauMauMain;

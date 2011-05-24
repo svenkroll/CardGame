@@ -1,0 +1,4 @@
+[TITLE]MauMau;
+[AUTHOR]LordLormi;
+[DESCRIPTION]Das altbekannte Kartenspiel "MauMau" in einer neuen Auflage. Besiege den Computer indem du als erstes keine Katen mehr auf der Hand hast.;
+[StartClass]CardGames.Plugins.MauMau.MauMauMain;

@@ -1,0 +1,4 @@
+o mi_back.png
+o mi_bgimage.jpg
+o mi_info_u.png
+o mi_textbg.png

@@ -1,0 +1,5 @@
+o mi_exit.png
+o mi_info.png
+o mi_swahlen.png
+o mi_bgimage.jpg
+o mi_title.png

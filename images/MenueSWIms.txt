@@ -1,0 +1,6 @@
+o mi_back.png
+o mi_bgimage.jpg
+o mi_swahlen_u.png
+o mi_swtextbg.png
+o li_Loading.png
+o li_LoadingPoint.png
